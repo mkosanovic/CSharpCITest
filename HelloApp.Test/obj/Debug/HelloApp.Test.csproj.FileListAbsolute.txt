@@ -1,0 +1,9 @@
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\bin\Debug\HelloApp.Test.dll
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\bin\Debug\HelloApp.Test.pdb
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\bin\Debug\nunit.framework.dll
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\bin\Debug\Shouldly.dll
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\bin\Debug\nunit.framework.xml
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\bin\Debug\Shouldly.pdb
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\obj\Debug\HelloApp.Test.csprojResolveAssemblyReference.cache
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\obj\Debug\HelloApp.Test.dll
+G:\Workspaces\Learning\Net\TestingCI\HelloApp.Test\obj\Debug\HelloApp.Test.pdb
